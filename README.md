@@ -1,4 +1,6 @@
-# Exercise - How to make a API automatic
+# Exercise - API
+´
+##How to make a automatic API using scripts in package.json
 
 ## Comandos
 
