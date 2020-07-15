@@ -1,4 +1,4 @@
-# Exercise - How to make a API
+# Exercise - How to make a API automatic
 
 ## Comandos
 
