@@ -1,8 +1,8 @@
 # Exercise - API
 
-##How to make a automatic API using scripts in package.json
+## How to make a automatic API using scripts in package.json
 
-## Comandos
+### Comandos
 
 Criar node_modules
 
