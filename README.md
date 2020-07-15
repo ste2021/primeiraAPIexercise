@@ -1,5 +1,5 @@
 # Exercise - API
-´
+
 ##How to make a automatic API using scripts in package.json
 
 ## Comandos
